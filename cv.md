@@ -19,7 +19,8 @@ let numPeople = Math.ceil((1+discriminant)/2);
   return numPeople;
 } 
 ```
-
+### Work experience
+- 
 ### Education and courses
 - JavaScript https://learn.javascript.ru/
 - HTMLAcademy https://htmlacademy.ru/profile/id1706685
