@@ -20,7 +20,8 @@ let numPeople = Math.ceil((1+discriminant)/2);
 } 
 ```
 ### Work experience
-- 
+- I work as a process engineer at the copper casting site
+***
 ### Education and courses
 - JavaScript https://learn.javascript.ru/
 - HTMLAcademy https://htmlacademy.ru/profile/id1706685
